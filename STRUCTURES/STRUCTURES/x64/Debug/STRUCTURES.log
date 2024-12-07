@@ -1,0 +1,12 @@
+﻿  STRUCTURES.cpp
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(23,10): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(24,6): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(25,6): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(26,6): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(27,6): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(35,11): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(36,7): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(36,28): error C3861: 'setprecision': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(37,7): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(38,7): error C3861: 'setw': identifier not found
+D:\ЛАБИ\КУРСИ\PRO\STRUCTURES\STRUCTURES\STRUCTURES.cpp(39,7): error C3861: 'setw': identifier not found
